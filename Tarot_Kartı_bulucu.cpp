@@ -1,6 +1,5 @@
 ﻿/*
-	Name: Fahrettin
-	Surname: Baştürk
+	author: ferivonus
 	last correction: 07.03.2021
 	Version: Final
 	I wrote this code to astrology interesters. By that, everyone can use my deck. 
